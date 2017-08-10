@@ -1,0 +1,4 @@
+rootProject.name = 'zipkin-trial'
+include 'client'
+include 'service'
+include 'zipkin-server'
